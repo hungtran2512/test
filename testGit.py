@@ -5,7 +5,7 @@ import requests
 
 # Cấu hình GitHub
 repository_url = "https://github.com/hungtran2512/test.git"     # Đường dẫn github
-local_repo_path = r"C:\Users\trang\OneDrive\Desktop\test"  # Đường dẫn lưu ảnh
+local_repo_path = r"C:\Users\trang\OneDrive\Desktop\test"       # Đường dẫn lưu ảnh
 
 def get_next_image_number(path):
     """Lấy số tiếp theo cho tên ảnh."""
